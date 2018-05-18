@@ -1,0 +1,8 @@
+{
+    "name": "random-miku-bot",
+    "description": "Post a random Miku to Twitter for Miki!",
+    "version": "1.1.0",
+    "dependencies": {
+        "twit": "^2.2.11"
+    }
+}
